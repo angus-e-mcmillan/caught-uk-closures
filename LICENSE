@@ -1,0 +1,27 @@
+This repository contains two kinds of material, under two licences.
+
+1. SOURCE DATA — the closure boundaries and the restriction summaries
+   (`restriction_label`, `restriction_summary`, `legislation_*`, the geometry).
+
+   Public sector information from Seafish Kingfisher, NatureScot, JNCC and
+   Natural England, licensed under the Open Government Licence v3.0:
+   https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+   Contains public sector information licensed under the Open Government
+   Licence v3.0.
+
+2. CAUGHT'S OWN CONTRIBUTIONS — the assembled list, the nation mapping, the
+   `restriction_class` classification, the rule research and this
+   documentation.
+
+   Creative Commons Attribution 4.0 International (CC BY 4.0):
+   https://creativecommons.org/licenses/by/4.0/
+
+   You are free to share and adapt this material, including commercially,
+   provided you give appropriate credit:
+
+       CAUGHT, https://caught.org.uk
+
+Both licences permit commercial use. Neither transfers any warranty: see the
+caveats in README.md, in particular that the boundaries are simplified and must
+not be used to decide whether a position falls inside a closure.

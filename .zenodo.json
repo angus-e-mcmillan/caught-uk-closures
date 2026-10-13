@@ -1,0 +1,18 @@
+{
+  "title": "UK marine fishing closures",
+  "upload_type": "dataset",
+  "description": "<p>Every legally closed fishing area in UK and Crown Dependency waters that <a href=\"https://caught.org.uk\">CAUGHT</a> monitors: 271 closures with their boundary, what the rule prohibits, the instrument that creates it and the authority that made it.</p><p>There is no single official list of where fishing is restricted in UK waters. The rules are made by fifteen different authorities under their own instruments, published in different formats, and sea fisheries are devolved, so the answer changes at the border. This dataset is that reconciliation.</p><p><strong>Three caveats.</strong> (1) Boundaries are simplified for display and are <em>not</em> accurate enough to decide whether a particular position falls inside a closure &mdash; use the authority's own published boundary for that. (2) <code>restriction_class</code> is CAUGHT's classification rather than the authority's wording, and each class deliberately claims a subset of what is really prohibited. (3) Nearly every closure bans one <em>kind</em> of fishing rather than fishing itself &mdash; static gear such as creels and pots is normally still permitted &mdash; so a vessel inside a closure is very often fishing lawfully.</p><p>No vessel is named in this dataset.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [{ "name": "CAUGHT" }],
+  "keywords": [
+    "marine protected areas", "fishing closures", "bottom trawling",
+    "scallop dredging", "no-take zones", "marine conservation",
+    "United Kingdom", "fisheries management", "Scotland", "satellite monitoring"
+  ],
+  "related_identifiers": [
+    { "identifier": "https://caught.org.uk/data", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://caught.org.uk/zones", "relation": "isDocumentedBy", "scheme": "url" }
+  ],
+  "notes": "Closure boundaries and restriction summaries are public sector information from Seafish Kingfisher, NatureScot, JNCC and Natural England, licensed under the Open Government Licence v3.0. CAUGHT's own contributions (the assembled list, the nation mapping and the restriction classification) are released under CC BY 4.0."
+}
